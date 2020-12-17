@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-/issues"
   },
-  "homepage": "https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-#readme"
+  "homepage": "https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
