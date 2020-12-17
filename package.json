@@ -1,0 +1,19 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "A Zoom Clone using MERN ( MongoDB Express React NodeJs )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-.git"
+  },
+  "author": "Suyash Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-/issues"
+  },
+  "homepage": "https://github.com/Suyash-Chaudhary/Zoom-Clone-NODEJS-#readme"
+}
